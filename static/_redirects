@@ -1,0 +1,12 @@
+# See https://www.netlify.com/docs/redirects/
+
+# Before frameworks and translations were added, chapters sat at the root
+/get-started /react/en/get-started 301
+/simple-component /react/en/simple-component 301
+/composite-component /react/en/composite-component 301
+/data /react/en/data 301
+/screen /react/en/screen 301
+/test /react/en/test 301
+/addons /react/en/addons 301
+/deploy /react/en/deploy 301
+/contribute /react/en/contribute 301
