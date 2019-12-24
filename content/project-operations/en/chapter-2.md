@@ -1,15 +1,17 @@
 ---
-title: 'Chapter 2'
-tocTitle: 'Chapter 2'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Backlog Grooming'
+tocTitle: 'Backlog Grooming'
+description: 'This section explains about the Backlog Grooming'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ The first step in any work is to define what needs to be done.
 
-## Sub Heading
+✍️ Based on the product strategy and project charter we decided on our business goals and validated with lot of tools, technologies and ideas to achieve those goals.
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ In backlog grooming we break down our business goals into specific tasks which can be implemented in every sprint.
+
+✍️ These tasks are termed as user stories and it’s product owner responsibility to fill the backlog with the user stories.
 
 ![default and pinned tasks](/placeholders/banner.png)
 

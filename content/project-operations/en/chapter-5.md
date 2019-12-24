@@ -1,15 +1,19 @@
 ---
-title: 'Chapter 5'
-tocTitle: 'Chapter 5'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Sprint Review'
+tocTitle: 'Sprint Review'
+description: 'This section explains about the Sprint Review'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ At the end of each sprint there will be demo session where each time will showcase their work done for that sprint.
 
-## Sub Heading
+✍️ This would help the stakeholders to review the work and share feedback.
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ Those feedback are then answered or it may be turned into tasks for the next sprint.
+
+<!-- ## Sub Heading
+
+✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
 ![default and pinned tasks](/placeholders/banner.png)
 

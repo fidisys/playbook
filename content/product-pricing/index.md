@@ -1,63 +1,28 @@
 ---
 title: 'Product Pricing'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
-heroDescription: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
-overview: "✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!"
+description: 'Right Pricing principles we follow'
+heroDescription: 'Pricing is the heart of every business.'
+overview: 'Get to know our right pricing methods'
 order: 7
 themeColor: '#827717'
 codeGithubUrl: 'https://github.com/fidisys/playbook'
 heroAnimationName: null
-toc:
-  [
-    'chapter-1',
-    'chapter-2',
-    'chapter-3',
-    'chapter-4',
-    'chapter-5',
-  ]
+toc: ['chapter-1']
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'
 contributorCount: '+4'
 authors:
   [
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
   ]
 contributors:
   [
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
   ]
 twitterShareText: 'I’m checking fidisys playbook! It’s a great great strategical idea for all startups.'
 ---

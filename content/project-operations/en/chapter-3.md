@@ -1,15 +1,17 @@
 ---
-title: 'Chapter 3'
-tocTitle: 'Chapter 3'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Sprint Planning'
+tocTitle: 'Sprint Planning'
+description: 'This section explains about the Sprint Planning'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ At the start of each sprint, teams pull in a few stories from the product backlog based on the priority and estimate the effort required to complete those stories with the sprint.
 
-## Sub Heading
+✍️ This is meeting will also include the acceptance criteria for every story that accepted for the sprint and clarifying any questions that arise.
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+<!-- ## Sub Heading
+
+✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
 ![default and pinned tasks](/placeholders/banner.png)
 

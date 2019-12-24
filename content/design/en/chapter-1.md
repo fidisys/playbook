@@ -1,15 +1,17 @@
 ---
-title: 'Chapter 1'
-tocTitle: 'Chapter 1'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Research'
+tocTitle: 'Research'
+description: 'It is the driving force behind our project and teams.
+'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+Designer keep this process alive by helping our teams understand user problems and needs.
+Together, we collaboratively and continuously ideate, build and learn.
 
-## Sub Heading
+<!-- ## Sub Heading
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
 ![default and pinned tasks](/placeholders/banner.png)
 
