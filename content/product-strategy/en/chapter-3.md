@@ -1,15 +1,19 @@
 ---
-title: 'Chapter 3'
-tocTitle: 'Chapter 3'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Questions in Design Sprints'
+tocTitle: 'Questions in Design Sprints'
+description: 'This section explains about questions in Design sprints'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+✍️ There are few questions which would arise while we follow design sprints.
 
-## Sub Heading
+1. Do users really understand my product?
+2. Will people find my product my useful ?
+3. Can people use my product?
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+<!-- ## Sub Heading
+
+✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
 ![default and pinned tasks](/placeholders/banner.png)
 

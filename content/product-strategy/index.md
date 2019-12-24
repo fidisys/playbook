@@ -1,63 +1,28 @@
 ---
 title: 'Product Strategy'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
-heroDescription: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
-overview: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+description: 'We follow design sprint as one of the core strategy for building product Strategy'
+heroDescription: 'Design sprints is the first step we do in building any product.'
+overview: 'Design sprints was invented by Google Ventures which led them to apply successful business strategies, design thinking and test process.'
 order: 2
 themeColor: '#129F00'
 codeGithubUrl: 'https://github.com/fidisys/playbook'
 heroAnimationName: 'float'
-toc:
-  [
-    'chapter-1',
-    'chapter-2',
-    'chapter-3',
-    'chapter-4',
-    'chapter-5',
-  ]
+toc: ['chapter-1', 'chapter-2', 'chapter-3']
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'
 contributorCount: '+4'
 authors:
   [
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
   ]
 contributors:
   [
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
-    {
-      src: '/placeholders/profile.png',
-      name: 'Full Name',
-      detail: 'Role',
-    },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
+    { src: '/placeholders/profile.png', name: 'Full Name', detail: 'Role' },
   ]
 twitterShareText: 'I’m checking fidisys playbook! It’s a great great strategical idea for all startups.'
 ---

@@ -1,15 +1,16 @@
 ---
-title: 'Chapter 5'
-tocTitle: 'Chapter 5'
-description: '✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!'
+title: 'Visual design'
+tocTitle: 'Visual design'
+description: 'Visual design is the strategic use of imagery, color, shapes, typography and form to improve user engagement and brand trust.'
 commit: '123456'
 ---
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+The four elements to be considered in visual design include
 
-## Sub Heading
-
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!
+#####Alignment(like grids)
+#####Emphasis(achieved with size, position, color)
+#####Consistency(buttons, links, headers)
+#####Whitespace(elegant, timeless, gives eye a rest)
 
 ![default and pinned tasks](/placeholders/banner.png)
 

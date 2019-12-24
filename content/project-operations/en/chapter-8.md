@@ -1,13 +1,17 @@
 ---
-title: 'Library and Frameworks'
-tocTitle: 'Library and Frameworks'
-description: 'This section explains about the Library and Frameworks'
+title: 'Bug Severity Levels'
+tocTitle: 'Bug Severity Levels'
+description: 'This section explains about the Bug Severity Levels'
 commit: '123456'
 ---
 
-In fidisys we encourage developers to use open source libraries which helps to reduce the development time.
+1. Blockers
+2. Critical
+3. Minor
+4. Trivial
+   <!--
 
-<!-- ## Sub Heading
+## Sub Heading
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
