@@ -1,30 +1,27 @@
 ---
-title: 'Sketching the interface'
-tocTitle: 'Sketching the interface'
-description: 'Usability is an attribute that determines a product’s ease of use.'
+title: 'Sketching'
+tocTitle: 'Sketching'
+description: 'This chapter explains about the importance of sketching'
 commit: '123456'
 ---
 
-Jakob Nielson defines it by five quality components which are:
-
-#####Learnability: How easy is it for users to accomplish basic tasks for the first time.
-#####Efficiency: Once the user have learned the design/flow, how quickly they can perform tasks?
-#####Memorability: When users return to the design after a period of time, how easy for them to re establish efficiency.
-#####Errors: How many errors do users make, how severe are these errors and how easily can they recover from the error.
-#####Satisfaction: How good is it to use the design.
+Sketching helps in figuring out possible solutions for the problem we are trying to solve. While we sketch, new ideas and different solutions emerges which can be evaluated with the previous one for the better result. Initially it starts with diverge ideas which are then converged to single sketch for a screen after lot of iterations. We can also have the UI flows once we finalize the sketch for each screen. It's kind of brainstorming experience. It is one of the efficient tool to involve stakeholders early on in the design process.
 
 <!-- ## Sub Heading
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
 <!--
-![default and pinned tasks](/placeholders/banner.png)
+![default and pinned tasks](/placeholders/banner.png) -->
 
-```javascript
+
+<!-- ```javascript
 code or syntax
-```
+``` -->
+
+<!-- #### Links:
 
 <div class="aside">
-<a href=""><b>Links</b></a>
-</div>
--->
+<a href=""><b>https://www.nngroup.com/articles/usability-101-introduction-to-usability/</b></a>
+</div> -->
+

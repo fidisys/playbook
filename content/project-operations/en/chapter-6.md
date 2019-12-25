@@ -24,13 +24,3 @@ code or syntax
 <a href=""><b>Links</b></a>
 </div>
 -->
-
-How Agile flows?
-Backlog Grooming
-Sprint Planning
-Daily Standups
-Sprint Review
-Sprint Retrospective
-MVP
-Bug Severity Levels
-QA & Testing
