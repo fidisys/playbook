@@ -70,7 +70,7 @@ const ChapterLinks = ({ codeGithubUrl, commit, guide, twitterShareText }) => {
 
   return (
     <BoxLinksWrapper withMultiple={withCommitLink}>
-      {withCommitLink && (
+      {/* {withCommitLink && (
         <BoxLink to={`${codeGithubUrl}/commit/${commit}`}>
           <BoxLinkContent>
             <BoxLinkIcon icon="repository" />
@@ -80,7 +80,7 @@ const ChapterLinks = ({ codeGithubUrl, commit, guide, twitterShareText }) => {
             </BoxLinkMessage>
           </BoxLinkContent>
         </BoxLink>
-      )}
+      )} */}
 
       {twitterShareText && (
         <BoxLink to={buildTwitterUrl(guide, twitterShareText)}>
