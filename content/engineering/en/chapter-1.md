@@ -13,6 +13,7 @@ There aren’t any prescribed architecture to solve all the use cases of a proje
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
+<!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -22,3 +23,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+-->

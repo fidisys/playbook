@@ -12,6 +12,7 @@ The four elements to be considered in visual design include
 #####Consistency(buttons, links, headers)
 #####Whitespace(elegant, timeless, gives eye a rest)
 
+<!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -21,3 +22,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+-->

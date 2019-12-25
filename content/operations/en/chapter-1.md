@@ -14,16 +14,22 @@ commit: '123456'
 ✍️ It would also be helpful in legal and financial processing.
 
 1.Email
+
 2.Calendar
+
 3.Documents
+
 4.Payroll
+
 5.Meetings
+
 6.Project tracking tool
 
 <!-- ## Sub Heading
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
+<!-- <!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -33,3 +39,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+--> -->

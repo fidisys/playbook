@@ -13,6 +13,7 @@ commit: '123456'
 
 ✍️ These tasks are termed as user stories and it’s product owner responsibility to fill the backlog with the user stories.
 
+<!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -22,3 +23,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+-->

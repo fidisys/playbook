@@ -15,6 +15,7 @@ Prototype can be in the form of
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
+<!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -24,3 +25,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+-->
