@@ -11,6 +11,7 @@ We use Git for version control and follow git workflow to maintain the strict br
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
+<!--
 ![default and pinned tasks](/placeholders/banner.png)
 
 ```javascript
@@ -20,3 +21,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
+-->
