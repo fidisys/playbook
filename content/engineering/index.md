@@ -18,8 +18,8 @@ toc:
     'chapter-7',
     'chapter-8',
   ]
-coverImagePath: '/guide-cover/intro.svg'
-thumbImagePath: '/guide-thumb/intro.svg'
+coverImagePath: '/guide-cover/engineering.svg'
+thumbImagePath: '/guide-thumb/engineering.svg'
 contributorCount: '+2'
 authors:
   [

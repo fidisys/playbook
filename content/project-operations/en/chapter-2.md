@@ -5,9 +5,9 @@ description: 'This section explains about the Backlog Grooming'
 commit: '123456'
 ---
 
-✍️ The first step in any work is to define what needs to be done.
+✍️ The first step in software development is to define what needs to be done.
 
-✍️ Based on the product strategy and project charter we decided on our business goals and validated with lot of tools, technologies and ideas to achieve those goals.
+✍️ Based on the product strategy and project charter we arrive on our business goals and validate those with lot of tools, technologies and ideas to achieve those goals.
 
 ✍️ In backlog grooming we break down our business goals into specific tasks which can be implemented in every sprint.
 

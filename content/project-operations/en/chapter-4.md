@@ -10,20 +10,20 @@ commit: '123456'
 1. What was done since the last time?
 2. What will be done till the next standup?
 3. Are there any blockers?
-   <!--
 
-## Sub Heading
+<!-- ## Sub Heading -->
 
-✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
+✍️ We use trello's project management templates to keep track of our tasks status.
 
-<!--
-![default and pinned tasks](/placeholders/banner.png)
 
-```javascript
+![default and pinned tasks](/placeholders/trello.png)
+
+<!-- ```javascript
 code or syntax
-```
+```  -->
+
+#### Links:
 
 <div class="aside">
-<a href=""><b>Links</b></a>
+<a href=""><b>https://trello.com/</b></a>
 </div>
--->

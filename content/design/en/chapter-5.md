@@ -1,21 +1,25 @@
 ---
 title: 'Visual design'
 tocTitle: 'Visual design'
-description: 'Visual design is the strategic use of imagery, color, shapes, typography and form to improve user engagement and brand trust.'
+description: 'This chapter explains the importance of visual design in the application'
 commit: '123456'
 ---
 
+Visual design is the strategic use of imagery, color, shapes, typography and form to improve user engagement and brand trust.
+
 The four elements to be considered in visual design include
 
-#####Alignment(like grids)
-#####Emphasis(achieved with size, position, color)
-#####Consistency(buttons, links, headers)
-#####Whitespace(elegant, timeless, gives eye a rest)
+1. Alignment(like grids)
+2. Emphasis(achieved with size, position, color)
+3. Consistency(buttons, links, headers)
+4. Whitespace(elegant, timeless, gives eye a rest)
+
 
 <!--
 ![default and pinned tasks](/placeholders/banner.png)
+-->
 
-```javascript
+<!-- ```javascript
 code or syntax
 ```
 

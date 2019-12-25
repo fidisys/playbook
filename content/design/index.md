@@ -8,8 +8,8 @@ themeColor: '#004D40'
 codeGithubUrl: 'https://github.com/fidisys/playbook'
 heroAnimationName: null
 toc: ['chapter-1', 'chapter-2', 'chapter-3', 'chapter-4', 'chapter-5']
-coverImagePath: '/guide-cover/intro.svg'
-thumbImagePath: '/guide-thumb/intro.svg'
+coverImagePath: '/guide-cover/design.svg'
+thumbImagePath: '/guide-thumb/design.svg'
 contributorCount: '+2'
 authors:
   [
@@ -20,26 +20,26 @@ contributors: [{ src: '/placeholders/profile.png', name: 'Prasanth', detail: 'De
 twitterShareText: 'I’m checking fidisys playbook! It’s a great strategical idea for all startups.'
 ---
 
-<!-- <h2>What you'll build</h2>
+<h2>What you'll build</h2>
 
 <div class="badge-box">
   <div class="badge">
-    <!-- <img src="/frameworks/logo-react.svg">
-    Tag 1
+    <!-- <img src="/frameworks/logo-react.svg">  -->
+    Sketch
   </div>
 
   <div class="badge">
-    <!-- <img src="/frameworks/logo-vue.svg">
-    Tag 2
+    <!-- <img src="/frameworks/logo-vue.svg">  -->
+    Wireframes
   </div>
 
   <div class="badge">
-    <!-- <img src="/frameworks/logo-angular.svg">
-    Tag 3
+    <!-- <img src="/frameworks/logo-angular.svg">  -->
+    Visual Design
   </div>
 </div>
 
-![Taskbox UI](/placeholders/banner.png) -->
+![Taskbox UI](/placeholders/banner.png)
 
 <!--
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!.
