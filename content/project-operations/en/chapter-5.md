@@ -5,7 +5,7 @@ description: 'This section explains about the Sprint Review'
 commit: '123456'
 ---
 
-✍️ At the end of each sprint there will be demo session where each time will showcase their work done for that sprint.
+✍️ At the end of each sprint there will be demo session where each team will showcase their work completed for that sprint.
 
 ✍️ This would help the stakeholders to review the work and share feedback.
 

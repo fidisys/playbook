@@ -1,5 +1,5 @@
 ---
-title: 'Intro to Playbook'
+title: 'Introduction'
 description: 'How we do things at Fidisys'
 heroDescription: 'Fidisys believe in the idea of sharing our lesson for the benefits of other startups'
 overview: 'We always wants to make Fidisys a transparent agile organizations'
@@ -8,8 +8,8 @@ themeColor: '#6F2CAC'
 codeGithubUrl: 'https://github.com/fidisys/playbook'
 heroAnimationName: 'float'
 toc: ['chapter-1', 'chapter-2']
-coverImagePath: '/guide-cover/intro.svg'
-thumbImagePath: '/guide-thumb/intro.svg'
+coverImagePath: '/guide-cover/introduction.svg'
+thumbImagePath: '/guide-thumb/introduction.svg'
 contributorCount: '+2'
 authors:
   [

@@ -5,9 +5,9 @@ description: 'This section explains about the Sprint Planning'
 commit: '123456'
 ---
 
-✍️ At the start of each sprint, teams pull in a few stories from the product backlog based on the priority and estimate the effort required to complete those stories with the sprint.
+✍️ At the start of each sprint, teams pull in a few stories from the product backlog based on the priority and estimate the effort required to complete those stories within the sprint.
 
-✍️ This is meeting will also include the acceptance criteria for every story that accepted for the sprint and clarifying any questions that arise.
+✍️ This meeting will also include acceptance criteria for every story that is accepted for the sprint and clarifying any questions that arise.
 
 <!-- ## Sub Heading
 

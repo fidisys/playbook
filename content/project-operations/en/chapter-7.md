@@ -7,7 +7,7 @@ commit: '123456'
 
 ✍️ Minimum Viable Product(MVP) is considered to be the simplest, functional product that can be released and distributed to consumers.
 
-✍️ There are specific criteria the MVP’s must adhere to prior to release:
+✍️ There are specific criteria that MVP’s must adhere to prior to release:
 
 1. Product must have enough values so that people will buy or use it.
 2. Product must have future potential that it can retain and enable continued use from early adopters.

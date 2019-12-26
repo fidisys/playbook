@@ -1,11 +1,11 @@
 ---
-title: 'Steps in Design Sprints'
-tocTitle: 'Steps in Design Sprints'
-description: 'This section explains about steps in Design sprints'
+title: 'Steps in Design Sprint'
+tocTitle: 'Steps in Design Sprint'
+description: 'This section list out steps followed in Design Sprint'
 commit: '123456'
 ---
 
-✍️ Design Sprints Valuable Steps
+✍️ Design Sprint Valuable Steps
 
 1. Understanding business need and end user outcome
 2. Success criteria
