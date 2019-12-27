@@ -7,7 +7,7 @@ order: 8
 themeColor: '#DD2C00'
 codeGithubUrl: 'https://github.com/fidisys/playbook'
 heroAnimationName: null
-toc: ['chapter-1']
+toc: ['chapter-1', 'chapter-2', chapter-3]
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'
 contributorCount: '+2'
