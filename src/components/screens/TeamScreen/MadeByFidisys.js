@@ -58,7 +58,7 @@ const MadeByFidisys = () => (
     <FidisysShadowBox as="a" target="_blank" rel="noopener noreferrer" href="https://www.fidisys.com/">
       <img alt="Fidisys, the product building company" src="/icon-fidisys.png" />
       <div>
-        <Bold>Fidisys is startup company</Bold> run by couple of freelancers & industry best experts united together and running a startup to give best to IT industry. We help other startups to build awesome products with latest tech stack.{' '}
+        <Bold>Fidisys is startup company</Bold> run by some of the best coders & industry best experts, united together and to deliver world class applications. We help other startups to build awesome products with latest tech stack.{' '}
       </div>
     </FidisysShadowBox>
   </>
