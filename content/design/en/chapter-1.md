@@ -11,8 +11,14 @@ It is a research used to understand the user's needs, experience and behaviour t
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
+<!-- ![default and pinned tasks](/placeholders/userresearch.JPG)  -->
 
-![default and pinned tasks](/placeholders/userresearch.JPG) 
+<figure class="image">
+  <img src="/placeholders/userresearch.JPG" alt="{{ include.description }}">
+  <p align="center">
+    <a href="https://blog.minitab.com/blog/what-is-user-centered-design-and-why-is-it-important" target="_blank">Photo from minitab</a>
+  </p>
+</figure>
 
 <!--  ```javascript
 code or syntax
@@ -23,4 +29,3 @@ code or syntax
 <div class="aside">
 <a href=""><b>https://blog.minitab.com/blog/what-is-user-centered-design-and-why-is-it-important</b></a>
 </div>
-

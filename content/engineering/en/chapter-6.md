@@ -22,3 +22,10 @@ code or syntax
 <a href=""><b>Links</b></a>
 </div>
 -->
+
+<figure class="image">
+  <img src="/placeholders/git-model.png" alt="{{ include.description }}">
+  <p align="center">
+    <a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">Photo from nvie</a>
+  </p>
+</figure>

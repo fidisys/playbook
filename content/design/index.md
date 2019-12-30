@@ -39,7 +39,14 @@ twitterShareText: 'I’m checking fidisys playbook! It’s a great strategical i
   </div>
 </div>
 
-![Taskbox UI](/placeholders/banner.png)
+<!-- ![Taskbox UI](/placeholders/banner.png) -->
+
+<figure class="image">
+  <img src="/placeholders/userresearch.JPG" alt="{{ include.description }}">
+  <p align="center">
+    <a href="https://blog.minitab.com/blog/what-is-user-centered-design-and-why-is-it-important" target="_blank">Photo from minitab</a>
+  </p>
+</figure>
 
 <!--
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!.
