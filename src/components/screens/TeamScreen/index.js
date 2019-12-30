@@ -52,17 +52,17 @@ const PureTeamScreen = ({
         <MeetTheTeam />
       </Section>
 
-      <Section>
+      {/* <Section>
         <Contributors />
-      </Section>
+      </Section> */}
 
       <Section>
         <MadeByFidisys/>
       </Section>
 
-      <Section>
+      {/* <Section>
         <Sponsors />
-      </Section>
+      </Section> */}
     </Content>
   </TeamWrapper>
 );

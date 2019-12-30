@@ -52,16 +52,52 @@ const MeetTheTeam = () => (
 
       <EditorDescription>
         <div>
-          <EditorName>Sabarinathan </EditorName>
+          <EditorName>Sabari </EditorName>
 
-          <Link secondary target="_blank" rel="noopener" href="">
+          <Link secondary target="_blank" rel="noopener" href="https://www.linkedin.com/in/sabarinathan-in/">
             @sabari
           </Link>
         </div>
 
         <div>
-          Sabarinathan is a Fidisys Young focusing on mobile end to end architecture.
+          Sabarinathan is mobile developer focusing on mobile end to end architecture.
           Previously, he worked with digital applications with best practises. He worked with TCS and many other startups. He writes about frontend best practices, performance, and process.
+        </div>
+      </EditorDescription>
+    </Editor>
+    <Editor isFirst>
+      <EditorAvatar src="https://media.licdn.com/dms/image/C5103AQGhqSJVIh-Yqg/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=tKEaza4S_XMzo9qMONsFUoIjr3PFBPoZHJbNKkcIgds" size="large" />
+
+      <EditorDescription>
+        <div>
+          <EditorName>Kalai </EditorName>
+
+          <Link secondary target="_blank" rel="noopener" href="https://www.linkedin.com/in/kalaiselvan-c-b3b6a162/">
+            @kalai
+          </Link>
+        </div>
+
+        <div>
+          Kalai is a Google Certified Android Associate Developer. He does real engineering with the mobile apps. He worked in some of the biggest IT companies in the world.
+          He is a Flight simulation enthusiast and he builds simulators in free time.
+        </div>
+      </EditorDescription>
+    </Editor>
+    <Editor isFirst>
+      <EditorAvatar src="https://media.licdn.com/dms/image/C4E03AQH8ZdWuLHm8Aw/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=Rv6eJuiY5RdhSSYzMpFwUVtC6PBH_IOw9AONh5YEBuU" size="large" />
+
+      <EditorDescription>
+        <div>
+          <EditorName>Prasanth </EditorName>
+
+          <Link secondary target="_blank" rel="noopener" href="https://www.linkedin.com/in/prasanth-kumar-lalapeta-369a42a9/">
+            @prasanth
+          </Link>
+        </div>
+
+        <div>
+          Prasanth is a rockstar Frontend developer. He is highly skilled in React, Angular. Prasanth is aspirating UX guy also.
+          He holds multiple hats in the organization. He is a renowned speaker in the tech community. And he holds experience working in biggest IT company to startups.
         </div>
       </EditorDescription>
     </Editor>
