@@ -5,7 +5,7 @@ description: 'This section explains about the Development Tools'
 commit: '123456'
 ---
 
-XCode, Android Studio, VS code, Sublime, Atom are some of the IDE we feel as the best in the development. We also few of testing tools which help us to monitor the quality of the and avoid bugs in the application.
+XCode, Android Studio, VS code, Sublime, Atom are some of the IDE we feel as the best in the development. We also use few other testing tools which help us to monitor the quality and avoid bugs in the application.
 
 <!-- ## Sub Heading
 

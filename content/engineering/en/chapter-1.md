@@ -7,7 +7,7 @@ commit: '123456'
 
 Client side architecture
 
-There aren’t any prescribed architecture to solve all the use cases of a project. It is the responsibility of the architects to define an architecture for the projects. For any simple apps we can start with MVVM pattern in android.
+There aren’t any prescribed architecture to solve all the use cases of a project. It is the responsibility of the architects to define an architecture for the projects. For any simple apps we can start with MVVM pattern if it targeted on android.
 
 <!-- ## Sub Heading
 

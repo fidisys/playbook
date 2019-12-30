@@ -39,7 +39,14 @@ twitterShareText: 'I’m checking fidisys playbook! It’s a great great strateg
   </div>
 </div>
 
-![Taskbox UI](/placeholders/designsprint.png)
+<!-- ![Taskbox UI](/placeholders/designsprint.png) -->
+
+<figure class="image">
+  <img src="https://www.gv.com/sprint/img/sprint-diagram.png" alt="{{ include.description }}">
+  <p align="center">
+    <a href="https://www.gv.com/sprint/img/sprint-diagram.png" target="_blank">Photo from GV</a>
+  </p>
+</figure>
 
 <!-- ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience!.
 

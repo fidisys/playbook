@@ -5,7 +5,7 @@ description: 'This section explains about the Security'
 commit: '123456'
 ---
 
-All incoming and outgoing traffic must be secured by SSL certificates. We spend a considerable amount of time in performing security checks to the applications we build which ensures the safety of the user data we manage.
+Generally all incoming and outgoing traffic must be secured by SSL certificates. Hence we spend a considerable amount of time in performing security checks to the applications we build which ensures the safety of the user data we manage.
 
 <!-- ## Sub Heading
 
