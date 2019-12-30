@@ -19,11 +19,20 @@ commit: '123456'
 
 ✍️Coming soon: Please watch this space for more updates from our team. Thanks for the patience! -->
 
-![default and pinned tasks](https://www.gv.com/sprint/img/sprint-diagram.png)
+<!-- ![default and pinned tasks](https://www.gv.com/sprint/img/sprint-diagram.png) -->
+
+<!-- [Photo taken from GV](https://www.gv.com/sprint/img/sprint-diagram.png) -->
 
 <!-- ```javascript
 code or syntax
 ``` -->
+
+<figure class="image">
+  <img src="https://www.gv.com/sprint/img/sprint-diagram.png" alt="{{ include.description }}">
+  <p align="center">
+  	<a href="https://www.gv.com/sprint/img/sprint-diagram.png" target="_blank">Photo from GV</a>
+  </p>
+</figure>
 
 Links:
 
