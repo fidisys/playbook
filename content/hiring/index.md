@@ -1,8 +1,8 @@
 ---
 title: 'Hiring'
 description: 'Hiring is the factor that either breaks or makes an organization'
-heroDescription: 'Hiring involves multiple steps'
-overview: 'We want our hiring process to be transparent'
+heroDescription: 'We always in search of our super heroes'
+overview: 'We want our hiring process to be transparent, clean and effective at all time. We always make sure that the candidates are treated without any kind of bias.'
 order: 6
 themeColor: '#3F51B5'
 codeGithubUrl: 'https://github.com/fidisys/playbook'

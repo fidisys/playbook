@@ -5,7 +5,7 @@ description: 'Effective operations of the organization is ideal for timely deliv
 commit: '123456'
 ---
 
-✍️ We follow time tracking for every employee in our organization.
+✍️ We follow daily timesheet for every employee in our organization.
 
 ✍️ In case of services to our client, timesheet is shared to them every week and for internal project it is tracked and maintained within the organization.
 
@@ -39,4 +39,4 @@ code or syntax
 <div class="aside">
 <a href=""><b>Links</b></a>
 </div>
---> -->
+-->
