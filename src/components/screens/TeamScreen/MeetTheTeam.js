@@ -60,8 +60,8 @@ const MeetTheTeam = () => (
         </div>
 
         <div>
-          Sabarinathan is mobile developer focusing on mobile end to end architecture.
-          Previously, he worked with digital applications with best practises. He worked with TCS and many other startups. He writes about frontend best practices, performance, and process.
+          Sabarinathan is a mobile developer who focuses on end to end mobile app development and architecture.
+          Previously, he developed many large scale enterprise applications that uses industry's best practises. He worked with big MNC to many startups as consultant. He writes about best practices, performance, and process.
         </div>
       </EditorDescription>
     </Editor>
