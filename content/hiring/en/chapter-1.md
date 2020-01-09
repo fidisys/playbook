@@ -5,13 +5,13 @@ description: 'Things we value while hiring'
 commit: '123456'
 ---
 
-✍️ We hire engineer based on their skillset and interest they show in their area of interest especially in building software.
+✍️ We recruit people based on their skillset and interest they show in their area of interest especially in building software.
 
 ✍️ We expect our future Fidisyser to be highly capable, gentle, skilled and a team player.
 
-✍️ We do hire freelancers for our projects who also works remotely because it allows to find the engineers all around the globe who are very best at their work.
+✍️ We do recruit freelancers for our projects who also works remotely because it allows to find the engineers all around the globe who are very best at their work.
 
-✍️ Aside from technical knowledge we also look for enthusiastic, focused, curious candidate.
+✍️ Aside from the knowledge we also look for enthusiastic, focused, curious and motivated individuals.
 
 <!-- ## Sub Heading
 
