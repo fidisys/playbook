@@ -72,6 +72,7 @@ const PureCommunity = ({ contributors }) => (
 
       <Text>
         Fidisys Playbook was created by members of fidisys and its opensource contributors. Who are much effiecient in current open source technologies with best practises followers. We encourage everyone to bring core values to team to differentiate from others with innovative ideas and stratagies.
+        Inspired by Jack Rabbit's <a href="https://medium.com/jackrabbit-mobile-publication/playbook-65a0d42ef9cf">Playbook</a>
       </Text>
 
       <GuidanceUsers>
