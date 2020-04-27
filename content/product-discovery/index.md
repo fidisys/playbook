@@ -1,5 +1,5 @@
 ---
-title: 'Product Discovery'
+title: 'Product Discoveries'
 description: 'Discover the product vision and understand the target customers.'
 heroDescription: 'It is the first step in defining an incredible product which helps in saving time and relatively yield higher payoff.'
 overview: 'This phase gives us complete understanding of the product requirements and the challenges in it. We follow Design Sprint introduced by Google Ventures which led them to apply successful business strategies, design thinking and test process.'
