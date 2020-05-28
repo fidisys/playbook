@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: 'Intro'
 description: 'How we do things at Fidisys'
 heroDescription: 'Fidisys believe in the idea of sharing our lesson for the benefits of other startups'
 overview: 'We always wants to make Fidisys a transparent agile organizations'
