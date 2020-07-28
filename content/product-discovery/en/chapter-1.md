@@ -1,7 +1,7 @@
 ---
 title: 'GV Design Sprint'
 tocTitle: 'Design Sprint'
-description: 'This section explains about the overview of Desing Sprint'
+description: 'This section explains about the overview of Design Sprint'
 commit: '123456'
 ---
 
